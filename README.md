@@ -8,5 +8,5 @@
 
 2: should you see my private repositories/projects being leaked. forget it and never talk about it.
 
-[!CAUTION]
-## That was very simple, Right? Now do not go around spying.
+> [!CAUTION]
+> ## That was very simple, Right? Now do not go around spying.

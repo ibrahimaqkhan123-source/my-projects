@@ -1,7 +1,7 @@
 # This is my public repository that has my projects.
 
 
-**There are 2 simple rules you have to follow**
+**There are 2 simple rules you have to follow:**
 
 
 1: do NOT touch my [organization](https://github.com/Ibra-Tech-Labs) and dont try to join it, its private

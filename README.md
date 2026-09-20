@@ -9,4 +9,4 @@
 2: should you see my private repositories/projects being leaked. forget it and never talk about it.
 
 [!CAUTION]
-# <span style="color: red;">That was simple right? do not go around snooping on my private stuff.</span>
+## <span style="color: #ff3333;">WARNING: Strict Rules Below</span>

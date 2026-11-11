@@ -8,3 +8,5 @@
 
 2: should you see my private repositories/projects being leaked. forget it and never talk about it.
 
+3: also, please consider checking out [my-friend's-project](https://oxgames-inc.itch.io/project-star) its cool.
+

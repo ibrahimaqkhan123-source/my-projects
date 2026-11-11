@@ -1,4 +1,4 @@
-# This is my public repository that has my projects.
+# This is my public repository that has my and other people's projects.
 
 
 **There are 2 simple rules you have to follow:**
@@ -8,5 +8,3 @@
 
 2: should you see my private repositories/projects being leaked. forget it and never talk about it.
 
-> [!CAUTION]
-> ## That was very simple, Right? Now do not go around spying.

@@ -1,4 +1,4 @@
-# This is my public repository that has my and other people's projects.
+# This is a public repository that has my and other people's projects.
 
 
 **There are 2 simple rules you have to follow:**

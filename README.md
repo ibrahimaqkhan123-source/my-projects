@@ -4,9 +4,7 @@
 **There are 2 simple rules you have to follow:**
 
 
-1: do NOT touch my [organization](https://github.com/Ibra-Tech-Labs) and dont try to join it, its private
-
-2: should you see my private repositories/projects being leaked. forget it and never talk about it.
+1: this is a public repository meant for everybody! yay! 
 
 3: also, please consider checking out [my-friend's-project](https://oxgames-inc.itch.io/project-star) its cool.
 
